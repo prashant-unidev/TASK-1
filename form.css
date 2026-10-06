@@ -1,0 +1,139 @@
+body{
+  background-color: rgba(236, 230, 230, 0.658);
+}
+
+
+
+
+.formbox1{
+
+  width: 575px;
+  height: 460px;
+  border-radius: 3%;
+  /* border-style: ridge; */
+  /* float:left; */
+/* box-shadow: 2px 2px rgb(165, 164, 164); */
+margin-bottom: 20px;
+margin-top: 8px;
+display: inline-block;
+margin-inline-start: 5%;
+margin-left: 40px;
+margin-right:10px;
+/* float: left; */
+box-shadow: rgba(100, 100, 111, 0.3) 1px 9px 31px 0px;
+font-family: sans-serif;
+
+
+
+}
+
+.formbox2{
+
+  width: 575px;
+  height: 460px;
+  border-radius: 3%;
+  /* border-style: ridge; */
+  /* float:left; */
+/* box-shadow: 2px 2px rgb(165, 164, 164); */
+margin-bottom: 20px;
+margin-top: 8px;
+display: inline-block;
+margin-inline-start: 5%;
+margin-left: 10px;
+/* padding-right: 30px; */
+/* margin-right:-10px; */
+/* float: left; */
+box-shadow: rgba(100, 100, 111, 0.3) 1px 9px 31px 0px;
+font-family: sans-serif;
+
+
+}
+
+.Heads{
+  font-size: 30px;
+  font-family:sans-serif;
+  margin-top:2px;
+}
+
+#bname,#gname,#tob,#dob,#plcname{
+ 
+  background-color: rgba(228, 227, 227, 0.863);
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding-bottom: 9px;
+  padding-right: 340px;
+  margin-left:20px;
+  margin-right: 20px;
+  border-width: 0.5px;
+  border-color: rgb(197, 194, 194,0.6);
+/* box-shadow: rgba(100, 100, 111, 0.2) 1px 1px 1px 1px; */
+  padding-top: 8px;
+  padding-left: 5px;
+  border-radius: 2px;
+}
+
+.boyform{
+  margin-left: 12px;
+  margin-top:5px;
+}
+
+.girlform{
+  margin-left: 12px;
+  margin-top:5px;
+}
+
+.bot{
+background-color: rgb(240, 181, 4);
+font-size:18px;
+font-family:Franklin Gothic;
+color: rgb(245, 245, 245);
+/* align-items:center; */
+/* display:inline-block; */
+margin-left: 575px;
+margin-top: 8px;
+margin-bottom:2px;
+border-width: 0;
+border-radius: 5px;
+/* padding: auto; */
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+.bot:hover{
+  
+  font-size:18px;
+  font-family: Franklin Gothic Medium;
+  /* font-style: italic; */
+  border-radius: 5px;
+  background-color:#0a47cb;
+  color:rgb(245, 245, 245);
+  padding-left: 25px;
+padding-right: 25px;
+padding-top: 8px;
+padding-bottom: 8px;
+box-shadow: rgba(100, 100, 111, 0.6) 1px 9px 31px 0px;
+
+
+  
+  
+}
+
+#fm2{
+  margin-left: 20px;
+  font-family:Arial;
+  /* padding-bottom:2px; */
+}
+
+#dob{
+  padding-right: 395px;
+}
+
+#tob{
+  padding-right: 415px;
+}
+
+#plcname{
+  padding-right: 343px;
+}
+
